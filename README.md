@@ -1,2 +1,2 @@
 # ALX-repository
-Nothing serious. Just testing
+First repository for ALX software engineering.
